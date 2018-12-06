@@ -1,0 +1,32 @@
+{
+  "name": "ustra-sf-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "_loose-envify@1.4.0@loose-envify": "^1.4.0",
+    "_prop-types@15.6.2@prop-types": "^15.6.2",
+    "_react@16.6.3@react": "^16.6.3",
+    "_scheduler@0.11.3@scheduler": "^0.11.3",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z1769057083/react-ssr.git"
+  },
+  "author": "zhangxl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/z1769057083/react-ssr/issues"
+  },
+  "homepage": "https://github.com/z1769057083/react-ssr#readme"
+}
